@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/tools/ffident
+END
+FormatDescriptionReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/tools/ffident/FormatDescriptionReader.java
+END
+FFIdent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/tools/ffident/FFIdent.java
+END
+FormatIdentification.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/tools/ffident/FormatIdentification.java
+END
+FormatDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/tools/ffident/FormatDescription.java
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/tools/ffident/.cvsignore
+END

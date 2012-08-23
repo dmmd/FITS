@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/41/trunk/xml/exiftool
+END
+exiftool_video_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/38/trunk/xml/exiftool/exiftool_video_to_fits.xslt
+END
+exiftool_xslt_map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/38/trunk/xml/exiftool/exiftool_xslt_map.xml
+END
+exiftool_common_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/41/trunk/xml/exiftool/exiftool_common_to_fits.xslt
+END
+exiftool_generic_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/xml/exiftool/exiftool_generic_to_fits.xslt
+END
+exiftool_document_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/38/trunk/xml/exiftool/exiftool_document_to_fits.xslt
+END
+exiftool_audio_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/38/trunk/xml/exiftool/exiftool_audio_to_fits.xslt
+END
+exiftool_image_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/38/trunk/xml/exiftool/exiftool_image_to_fits.xslt
+END
+exiftool_text_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/38/trunk/xml/exiftool/exiftool_text_to_fits.xslt
+END

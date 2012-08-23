@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/70/trunk/xml
+END
+fits_output_tech_elements.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/38/trunk/xml/fits_output_tech_elements.xsd
+END
+fits_xml_map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/54/trunk/xml/fits_xml_map.xml
+END
+fits_output.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/58/trunk/xml/fits_output.xsd
+END
+xslt_map.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/38/trunk/xml/xslt_map.xsd
+END
+fits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/70/trunk/xml/fits.xml
+END
+fits.out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/38/trunk/xml/fits.out.xml
+END
+fits_format_tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/38/trunk/xml/fits_format_tree.xml
+END
+prettyprint.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/38/trunk/xml/prettyprint.xslt
+END

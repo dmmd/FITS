@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool
+END
+Vorbis.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Vorbis.pm
+END
+XMP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/XMP.pm
+END
+TagLookup.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/TagLookup.pm
+END
+BZZ.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/BZZ.pm
+END
+GIF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/GIF.pm
+END
+TagNames.pod
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/TagNames.pod
+END
+CanonRaw.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/CanonRaw.pm
+END
+DNG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/DNG.pm
+END
+SigmaRaw.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/SigmaRaw.pm
+END
+BigTIFF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/BigTIFF.pm
+END
+ID3.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/ID3.pm
+END
+Photoshop.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Photoshop.pm
+END
+GeoTiff.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/GeoTiff.pm
+END
+PNG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PNG.pm
+END
+BuildTagLookup.pm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/BuildTagLookup.pm
+END
+XMP2.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/XMP2.pm
+END
+RIFF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/RIFF.pm
+END
+MPEG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MPEG.pm
+END
+CanonCustom.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/CanonCustom.pm
+END
+Fixup.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Fixup.pm
+END
+Exif.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Exif.pm
+END
+WritePhotoshop.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WritePhotoshop.pl
+END
+IPTC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/IPTC.pm
+END
+Sigma.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Sigma.pm
+END
+FujiFilm.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/FujiFilm.pm
+END
+Geotag.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Geotag.pm
+END
+HP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/HP.pm
+END
+Olympus.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Olympus.pm
+END
+DjVu.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/DjVu.pm
+END
+PDF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PDF.pm
+END
+AFCP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/AFCP.pm
+END
+FotoStation.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/FotoStation.pm
+END
+CanonVRD.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/CanonVRD.pm
+END
+Nikon.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Nikon.pm
+END
+ICC_Profile.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/ICC_Profile.pm
+END
+BMP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/BMP.pm
+END
+MPC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MPC.pm
+END
+ITC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/ITC.pm
+END
+MNG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MNG.pm
+END
+PhotoMechanic.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PhotoMechanic.pm
+END
+WriteCanonRaw.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WriteCanonRaw.pl
+END
+Real.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Real.pm
+END
+WritePostScript.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WritePostScript.pl
+END
+Rawzor.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Rawzor.pm
+END
+Sony.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Sony.pm
+END
+ZIP.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/ZIP.pm
+END
+MIEUnits.pod
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MIEUnits.pod
+END
+HTML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/HTML.pm
+END
+WriteExif.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WriteExif.pl
+END
+AIFF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/AIFF.pm
+END
+FLAC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/FLAC.pm
+END
+WriteIPTC.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WriteIPTC.pl
+END
+ASF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/ASF.pm
+END
+PostScript.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PostScript.pm
+END
+Writer.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Writer.pl
+END
+Shift.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Shift.pl
+END
+FlashPix.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/FlashPix.pm
+END
+WriteXMP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WriteXMP.pl
+END
+MIFF.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MIFF.pm
+END
+JVC.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/JVC.pm
+END
+JPEG.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/JPEG.pm
+END
+Sanyo.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Sanyo.pm
+END
+HtmlDump.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/HtmlDump.pm
+END
+PPM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PPM.pm
+END
+Flash.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Flash.pm
+END
+Casio.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Casio.pm
+END
+Shortcuts.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Shortcuts.pm
+END
+WritePNG.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WritePNG.pl
+END
+Canon.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Canon.pm
+END
+PICT.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PICT.pm
+END
+Unknown.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Unknown.pm
+END
+Pentax.pm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Pentax.pm
+END
+Minolta.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Minolta.pm
+END
+Ricoh.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Ricoh.pm
+END
+APE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/APE.pm
+END
+KyoceraRaw.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/KyoceraRaw.pm
+END
+Leaf.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Leaf.pm
+END
+MakerNotes.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MakerNotes.pm
+END
+TagInfoXML.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/TagInfoXML.pm
+END
+MIE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MIE.pm
+END
+Panasonic.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Panasonic.pm
+END
+MinoltaRaw.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/MinoltaRaw.pm
+END
+EXE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/EXE.pm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/README
+END
+PrintIM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PrintIM.pm
+END
+APP12.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/APP12.pm
+END
+WritePDF.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/WritePDF.pl
+END
+JPEGDigest.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/JPEGDigest.pm
+END
+PanasonicRaw.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/PanasonicRaw.pm
+END
+Jpeg2000.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Jpeg2000.pm
+END
+Kodak.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/Kodak.pm
+END
+GPS.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/GPS.pm
+END
+DICOM.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/DICOM.pm
+END
+QuickTime.pm
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/QuickTime.pm
+END
+NikonCapture.pm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/38/trunk/tools/exiftool/perl/lib/Image/ExifTool/NikonCapture.pm
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/69/trunk/src/edu/harvard/hul/ois/fits/identity
+END
+FitsIdentity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/69/trunk/src/edu/harvard/hul/ois/fits/identity/FitsIdentity.java
+END
+ExternalIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/identity/ExternalIdentifier.java
+END
+ToolIdentity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/64/trunk/src/edu/harvard/hul/ois/fits/identity/ToolIdentity.java
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/identity/.cvsignore
+END
+FormatVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/identity/FormatVersion.java
+END

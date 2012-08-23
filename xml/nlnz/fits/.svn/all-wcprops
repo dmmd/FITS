@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/38/trunk/xml/nlnz/fits
+END
+nlnz_mp3_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_mp3_to_fits.xslt
+END
+nlnz_xml_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_xml_to_fits.xslt
+END
+nlnz_wks_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_wks_to_fits.xslt
+END
+nlnz_html_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_html_to_fits.xslt
+END
+nlnz_gif_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_gif_to_fits.xslt
+END
+nlnz_doc_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_doc_to_fits.xslt
+END
+nlnz_xslt_map.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_xslt_map.xml
+END
+nlnz_pdf_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_pdf_to_fits.xslt
+END
+nlnz_bmp_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_bmp_to_fits.xslt
+END
+nlnz_default_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_default_to_fits.xslt
+END
+nlnz_jpeg_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_jpeg_to_fits.xslt
+END
+nlnz_tiff_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_tiff_to_fits.xslt
+END
+nlnz_wpd_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_wpd_to_fits.xslt
+END
+nlnz_ooo_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_ooo_to_fits.xslt
+END
+nlnz_wav_to_fits.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/38/trunk/xml/nlnz/fits/nlnz_wav_to_fits.xslt
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/70/trunk/src/edu/harvard/hul/ois/fits
+END
+DocumentMDModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/DocumentMDModel.java
+END
+FitsMetadataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/FitsMetadataElement.java
+END
+XmlContentConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/64/trunk/src/edu/harvard/hul/ois/fits/XmlContentConverter.java
+END
+Fits.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/70/trunk/src/edu/harvard/hul/ois/fits/Fits.java
+END
+FitsOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/69/trunk/src/edu/harvard/hul/ois/fits/FitsOutput.java
+END
+TextMDModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/TextMDModel.java
+END
+FitsJarMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/58/trunk/src/edu/harvard/hul/ois/fits/FitsJarMain.java
+END
+AESModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/58/trunk/src/edu/harvard/hul/ois/fits/AESModel.java
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/.cvsignore
+END
+MixModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/38/trunk/src/edu/harvard/hul/ois/fits/MixModel.java
+END
